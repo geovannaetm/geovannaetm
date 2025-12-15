@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/banner.png" alt="Banner Geovanna Timoteo" />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Geovanna and I'm a student of systems development.</h2>
 
 ###
