@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Geovanna and I'm a student of systems development.</h2>
+<h2 align="left">Hi! My name is Geovanna, and I'm a Internet Informatics student at IFSP. I love technology and expressing myself through visual design.</h2>
 
 ###
 
