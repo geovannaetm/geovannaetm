@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi! My name is Geovanna, and I'm a Internet Informatics student at IFSP. I love technology and expressing myself through visual design.</h2>
+<h2 align="left">Olá!  Meu nome é Geovanna, Tenho formação técnica em Informática para Internet pelo IFSP e, no momento, curso Análise e Desenvolvimento de Sistemas.</h2>
 
 ###
 
