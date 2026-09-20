@@ -43,6 +43,16 @@
 
 ###
 
+Academic Projects
+
+<table> <tr> <td width="160"> <img src="assets/logo_dk.jpg" alt="Design Klehm" width="140"> </td> <td> <h3>Design Klehm</h3> <p> E-commerce de joias desenvolvido como projeto acadêmico, com <strong>HTML, CSS e JavaScript</strong>, integrado a um backend para gerenciamento da aplicação. </p> <a href="https://github.com/geovannaetm/desingklehm"> 🔗 View on GitHub </a> </td> </tr> </table>
+
+<br>
+
+<table> <tr> <td width="160"> <img src="assets/logo_tc.png" alt="Tempero Caiçara" width="140"> </td> <td> <h3>Tempero Caiçara</h3> <p> Plataforma acadêmica voltada à divulgação de quiosques parceiros da orla, ajudando pequenos negócios a ampliar sua presença e alcance. Desenvolvido com <strong>React, Next.js</strong> e integração com backend, incluindo também uma versão mobile. </p> <a href="https://github.com/geovannaetm/tempero-caicara"> 🔗 View on GitHub </a> </td> </tr> </table>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
